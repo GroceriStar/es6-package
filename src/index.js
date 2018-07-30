@@ -5,9 +5,11 @@
 // console.log(thankYou());
 
 // import fetch from 'fetch'
-import  { a }  from './data/a.json'
-JSON.parse( JSON.stringify(a))
-
+import  array  from 'array'
+// import array from './data/a.json'
+// JSON.parse( JSON.stringify(a))
+// console.log(JSON.parse( JSON.stringify(array)))
+console.log(array);
 // import a  from './data/a.json'
 // import _    from 'lodash'
 
