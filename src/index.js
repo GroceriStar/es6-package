@@ -5,7 +5,7 @@
 // console.log(thankYou());
 
 // import fetch from 'fetch'
-import  array  from 'array'
+import array from 'array'
 // import array from './data/a.json'
 // JSON.parse( JSON.stringify(a))
 // console.log(JSON.parse( JSON.stringify(array)))
@@ -26,4 +26,4 @@ console.log(array);
 //     console.log(myJson);
 //   });
 // }
-// console.log(a); 
+// console.log(a);
