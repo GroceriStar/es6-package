@@ -12,6 +12,6 @@ export const groceristar = groceristarMethods;
 //
 // export const search       = thankYou;
 
-// console.log(thankYou());
+console.log(groceristar.users());
 
 // console.log(gs_data);
