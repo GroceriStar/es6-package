@@ -1,11 +1,12 @@
 
-Put your code into src/information folder
-publish updates via npm run dev
-run script at node lib/index.js to see how it actually works on dev
+Put your code into `src/` folder
+publish updates via `npm run dev`
+run script at `node lib/index.js` to see how it actually works on dev
 
 
 
-
+for custom lint use
+```./node_modules/.bin/eslint src ```
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/eunikitin/modern-package-boilerplate/master/internals/img/header.png" alt="Header">
