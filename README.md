@@ -8,6 +8,10 @@ run script at `node lib/index.js` to see how it actually works on dev
 for custom lint use
 ```./node_modules/.bin/eslint src ```
 
+
+Travis CI : https://travis-ci.org/GroceriStar/es6-package
+
+
 <p align="center">
    <img src="https://raw.githubusercontent.com/eunikitin/modern-package-boilerplate/master/internals/img/header.png" alt="Header">
 </p>
