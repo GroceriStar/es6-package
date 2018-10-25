@@ -75,7 +75,7 @@
     "fs-file-tree": "1.0.6",
     "jest": "22.4.3",
     "react": "16.6.0",
-    "react-dom": "16.5.2",
+    "react-dom": "16.6.0",
     "rimraf": "2.6.2",
     "rollup": "0.66.6",
     "rollup-plugin-babel": "3.0.3",
