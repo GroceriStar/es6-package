@@ -1,3 +1,8 @@
+## NOTE
+Not working on it anymore.
+Trying to create a babel configuration from scratch.
+Details in issues at https://github.com/GroceriStar/groceristar-fetch
+
 
 Put your code into `src/` folder
 publish updates via `npm run dev`
