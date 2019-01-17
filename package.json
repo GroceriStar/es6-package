@@ -76,7 +76,7 @@
     "jest": "22.4.3",
     "react": "16.6.3",
     "react-dom": "16.6.3",
-    "rimraf": "2.6.2",
+    "rimraf": "2.6.3",
     "rollup": "0.67.3",
     "rollup-plugin-babel": "3.0.3",
     "rollup-plugin-commonjs": "9.2.0",
